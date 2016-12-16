@@ -15,9 +15,9 @@ greg@gjmccarthy.co.uk
 #include <OneWire.h>
 #include <DallasTemperature.h>
 
-const char* ssid = "homenet";
-const char* password = "deadbeef4cb2ea";
-const char http_site[] = "controller.home";
+const char* ssid = "XXXXXXXXX";
+const char* password = "XXXXXXXXXXXX";
+const char http_site[] = "XXXXXXXX";
 const int http_port = 8080;
 
 int rotation = 0;
